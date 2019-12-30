@@ -1,5 +1,5 @@
 {
-  "name": "@pod-point/eslint-typescript-config-js",
+  "name": "@pod-point/eslint-typescript-config",
   "version": "1.0.0",
   "description": "Configuration for ESLint with Typescript.",
   "main": "lib/index.js",

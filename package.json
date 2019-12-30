@@ -2,7 +2,7 @@
   "name": "@pod-point/eslint-typescript-config",
   "version": "1.0.0",
   "description": "Configuration for ESLint with Typescript.",
-  "main": "lib/index.js",
+  "main": "index.js",
   "author": "Pod Point Software Team <software@pod-point.com>",
   "license": "MIT",
   "repository": {

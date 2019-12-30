@@ -18,7 +18,7 @@
     "JavaScript",
     "ESLint"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.13.0",
     "@typescript-eslint/parser": "^2.13.0",
     "eslint": "^6.8.0",

@@ -1,8 +1,5 @@
 # ESLint Typescript Configuration
 
-[![Build Status](https://travis-ci.com/Pod-Point/eslint-typescript-config.svg?branch=master)](https://travis-ci.com/Pod-Point/eslint-typescript-config)
-[![codecov](https://codecov.io/gh/Pod-Point/eslint-typescript-config/branch/master/graph/badge.svg)](https://codecov.io/gh/Pod-Point/eslint-typescript-config)
-
 Configuration for ESLint with Typescript.
 
 ## Usage
